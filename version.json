@@ -2,6 +2,6 @@
   "version": "1.9",
   "url": "https://github.com/executorsqlaccess-oss/ExecutorSQLAccess/releases/download/v1.9/ExecutorSQLAccess_Setup.exe",
   "changelog": "- Instalação automática do driver Access
-- Suporte completo 32/64 bits
-- Correções gerais"
+                - Suporte completo 32/64 bits
+                - Correções gerais"
 }
